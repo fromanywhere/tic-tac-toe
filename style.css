@@ -1,0 +1,113 @@
+html, body, form {
+    margin: 0;
+    padding: 0;
+    }
+
+.app {
+    font-family: Arial, sans-serif;
+    line-height: 1.3;
+    border-top: 2px #000 solid;
+    padding-top: 20px;
+    min-width: 800px;
+    font-size: 0;
+    margin: 0 20px;
+    }
+
+    .app__panel {
+        border-bottom: 1px #000 solid;
+        }
+
+    .app__board {
+
+        }
+
+        .app__panel-games-list {
+            display: inline-block;
+            vertical-align: top;
+            width: 60%;
+            word-wrap: break-word;
+            margin-right: 5%;
+            font-size: 16px;
+            }
+
+        .app__panel-create-game {
+            display: inline-block;
+            vertical-align: top;
+            width: 15%;
+            margin-right: 5%;
+            font-size: 16px;
+            }
+
+        .app__panel-login {
+            display: inline-block;
+            vertical-align: top;
+            width: 15%;
+            word-wrap: break-word;
+            font-size: 16px;
+            }
+
+
+.panel {
+
+    }
+
+    .panel__item {
+        margin-bottom: 8px;
+        }
+
+        .panel__title {
+            padding-bottom: 2px;
+            }
+
+        .panel__input {
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px #ddd solid;
+            font-size: 14px;
+            }
+
+            .panel__submit {
+                height: 100%;
+                border: 1px #ddd solid;
+                background: #fff;
+                cursor: pointer;
+                }
+
+
+.status {
+    padding-top: 20px;
+    margin-bottom: 20px;
+    }
+
+
+.board {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    margin-right: 20px;
+    }
+
+    .board__cnt {
+        display: inline-block;
+        border: 1px #ddd solid;
+        }
+
+        .board__cell {
+            float: left;
+            width: 80px;
+            height: 80px;
+            line-height: 80px;
+            text-align: center;
+            border: 1px #ddd solid;
+            box-sizing: border-box;
+            }
+            .active .board__cell {
+                cursor: pointer;
+                }
+            .board__cell_first {
+                clear: both;
+                }
+
+    .games__item  {
+        margin: 8px 0;
+        }
