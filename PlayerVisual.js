@@ -1,1 +1,149 @@
-var _0x1cfa=['\u0418\u0434\u0435\u0442\x20\u0438\u0433\u0440\u0430\x2e','\u0425\u043e\u0434\u0438\u0442\x20','\x63\x75\x72\x72\x65\x6e\x74\x4d\x6f\x76\x65','\x46\x49\x4e\x49\x53\x48','\u0418\u0433\u0440\u0430\x20\u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u0430\x2e','\x6d\x6f\x76\x65','\u041f\u043e\u0431\u0435\u0434\u0438\u043b\x20','\u041d\u0438\u0447\u044c\u044f','\x41\x62\x73\x74\x72\x61\x63\x74\x50\x6c\x61\x79\x65\x72','\x41\x62\x73\x74\x72\x61\x63\x74\x47\x61\x6d\x65','\x6d\x75\x73\x74\x61\x63\x68\x65\x2e\x6d\x69\x6e','\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x62\x6f\x61\x72\x64\x5f\x5f\x63\x6e\x74\x22\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x20\x7b\x7b\x23\x72\x6f\x77\x73\x7d\x7d\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x62\x6f\x61\x72\x64\x5f\x5f\x63\x65\x6c\x6c\x7b\x7b\x5e\x63\x6f\x6c\x75\x6d\x6e\x7d\x7d\x20\x62\x6f\x61\x72\x64\x5f\x5f\x63\x65\x6c\x6c\x5f\x66\x69\x72\x73\x74\x7b\x7b\x2f\x63\x6f\x6c\x75\x6d\x6e\x7d\x7d\x22\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x61\x74\x61\x2d\x63\x6f\x6c\x75\x6d\x6e\x2d\x69\x6e\x64\x65\x78\x3d\x22\x7b\x7b\x63\x6f\x6c\x75\x6d\x6e\x7d\x7d\x22\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x64\x61\x74\x61\x2d\x72\x6f\x77\x2d\x69\x6e\x64\x65\x78\x3d\x22\x7b\x7b\x72\x6f\x77\x7d\x7d\x22\x3e\x7b\x7b\x76\x61\x6c\x75\x65\x7d\x7d\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x2f\x64\x69\x76\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x20\x7b\x7b\x2f\x72\x6f\x77\x73\x7d\x7d\x20\x20\x20\x20\x20\x3c\x2f\x64\x69\x76\x3e','\x6c\x65\x61\x76\x65\x43\x61\x6c\x6c\x62\x61\x63\x6b','\x63\x72\x65\x61\x74\x65\x56\x69\x73\x75\x61\x6c','\x6e\x6f\x74\x69\x66\x79','\x63\x72\x65\x61\x74\x65\x45\x6c\x65\x6d\x65\x6e\x74','\x69\x6e\x6e\x65\x72\x48\x54\x4d\x4c','\x72\x65\x6e\x64\x65\x72','\x66\x69\x72\x73\x74\x45\x6c\x65\x6d\x65\x6e\x74\x43\x68\x69\x6c\x64','\x73\x74\x61\x74\x75\x73\x4e\x6f\x64\x65','\x72\x6f\x6f\x74\x4e\x6f\x64\x65','\x71\x75\x65\x72\x79\x53\x65\x6c\x65\x63\x74\x6f\x72','\x2e\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x73\x74\x61\x74\x75\x73','\x2e\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x62\x6f\x64\x79','\x6c\x65\x61\x76\x65\x42\x75\x74\x74\x6f\x6e','\x2e\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x6c\x65\x61\x76\x65','\x61\x64\x64\x45\x76\x65\x6e\x74\x4c\x69\x73\x74\x65\x6e\x65\x72','\x63\x6c\x69\x63\x6b','\x6c\x65\x61\x76\x65','\x62\x69\x6e\x64','\x72\x65\x6e\x64\x65\x72\x4e\x6f\x64\x65','\x61\x70\x70\x65\x6e\x64\x43\x68\x69\x6c\x64','\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65','\x6c\x65\x6e\x67\x74\x68','\x62\x6f\x61\x72\x64\x4e\x6f\x64\x65','\x6d\x61\x6b\x65\x4d\x6f\x76\x65','\x76\x61\x6c\x69\x64\x61\x74\x65\x43\x6c\x69\x63\x6b','\x63\x6c\x61\x73\x73\x4c\x69\x73\x74','\x72\x65\x6d\x6f\x76\x65','\x72\x65\x6d\x6f\x76\x65\x45\x76\x65\x6e\x74\x4c\x69\x73\x74\x65\x6e\x65\x72','\x61\x64\x64','\x61\x63\x74\x69\x76\x65','\x73\x74\x72\x69\x6e\x67','\x53\x54\x41\x54\x45','\u0418\u0433\u0440\u0430\x20\u0435\u0449\u0435\x20\u043d\u0435\x20\u043d\u0430\u0447\u0430\u043b\u0430\u0441\u044c\x2e','\x50\x52\x4f\x43\x45\x53\x53'];(function(_0x1a0fa6,_0x121eec){var _0x33849f=function(_0x4856c5){while(--_0x4856c5){_0x1a0fa6['\x70\x75\x73\x68'](_0x1a0fa6['\x73\x68\x69\x66\x74']());}};_0x33849f(++_0x121eec);}(_0x1cfa,0x1a6));var _0xa1cf=function(_0x55b33b,_0x1b9666){_0x55b33b=_0x55b33b-0x0;var _0x2e1de9=_0x1cfa[_0x55b33b];return _0x2e1de9;};define([_0xa1cf('0x0'),_0xa1cf('0x1'),_0xa1cf('0x2')],function(_0x35524c,_0x484e1e,_0x82f76){var _0xa870f6='\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x62\x6f\x61\x72\x64\x22\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x73\x74\x61\x74\x75\x73\x22\x3e\x3c\x2f\x64\x69\x76\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x62\x6f\x64\x79\x22\x3e\x3c\x2f\x64\x69\x76\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x62\x6f\x61\x72\x64\x5f\x5f\x63\x6f\x6e\x74\x72\x6f\x6c\x22\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x62\x75\x74\x74\x6f\x6e\x20\x63\x6c\x61\x73\x73\x3d\x22\x6a\x73\x2d\x62\x6f\x61\x72\x64\x5f\x5f\x6c\x65\x61\x76\x65\x22\x3e\u0412\u044b\u0439\u0442\u0438\x3c\x2f\x62\x75\x74\x74\x6f\x6e\x3e\x20\x20\x20\x20\x20\x20\x20\x20\x3c\x2f\x64\x69\x76\x3e\x20\x20\x20\x20\x3c\x2f\x64\x69\x76\x3e';var _0x3757a8=_0xa1cf('0x3');var _0x1d3ba6='\x3c\x64\x69\x76\x20\x63\x6c\x61\x73\x73\x3d\x22\x73\x74\x61\x74\x75\x73\x22\x3e\x7b\x7b\x6d\x65\x73\x73\x61\x67\x65\x7d\x7d\x3c\x2f\x64\x69\x76\x3e';class PlayerVisual extends _0x35524c{constructor(_0x2a4232,_0x57f815){super(_0x2a4232,_0x57f815);this[_0xa1cf('0x4')]=()=>{};this[_0xa1cf('0x5')]();this[_0xa1cf('0x6')]('\u041e\u0436\u0438\u0434\u0430\u043d\u0438\u0435\x20\u0438\u0433\u0440\u043e\u043a\u043e\u0432\x2e\x2e\x2e');}[_0xa1cf('0x5')](){var _0x4e1185=document[_0xa1cf('0x7')]('\x64\x69\x76');_0x4e1185[_0xa1cf('0x8')]=_0x82f76[_0xa1cf('0x9')](_0xa870f6,{});this['\x72\x6f\x6f\x74\x4e\x6f\x64\x65']=_0x4e1185[_0xa1cf('0xa')];_0x4e1185=null;this[_0xa1cf('0xb')]=this[_0xa1cf('0xc')][_0xa1cf('0xd')](_0xa1cf('0xe'));this['\x62\x6f\x61\x72\x64\x4e\x6f\x64\x65']=this[_0xa1cf('0xc')][_0xa1cf('0xd')](_0xa1cf('0xf'));this[_0xa1cf('0x10')]=this[_0xa1cf('0xc')][_0xa1cf('0xd')](_0xa1cf('0x11'));this[_0xa1cf('0x10')][_0xa1cf('0x12')](_0xa1cf('0x13'),this[_0xa1cf('0x14')][_0xa1cf('0x15')](this));this[_0xa1cf('0x16')][_0xa1cf('0x17')](this['\x72\x6f\x6f\x74\x4e\x6f\x64\x65']);}['\x76\x61\x6c\x69\x64\x61\x74\x65\x43\x6c\x69\x63\x6b'](_0x1cf602){var _0x5c427b=_0x1cf602['\x74\x61\x72\x67\x65\x74'][_0xa1cf('0x18')]('\x64\x61\x74\x61\x2d\x63\x6f\x6c\x75\x6d\x6e\x2d\x69\x6e\x64\x65\x78');var _0x4bb22f=_0x1cf602['\x74\x61\x72\x67\x65\x74']['\x67\x65\x74\x41\x74\x74\x72\x69\x62\x75\x74\x65']('\x64\x61\x74\x61\x2d\x72\x6f\x77\x2d\x69\x6e\x64\x65\x78');if(_0x5c427b===undefined||_0x4bb22f===undefined){return![];}return{'\x78':Number(_0x5c427b),'\x79':Number(_0x4bb22f)};}[_0xa1cf('0x9')](_0x5a86f0){var _0xd96e6=_0x5a86f0[_0xa1cf('0x19')];var _0x51a33b={'\x72\x6f\x77\x73':new Array(_0xd96e6*_0xd96e6)};for(var _0x5efa2f=0x0;_0x5efa2f<_0xd96e6;_0x5efa2f++){for(var _0x32ebf6=0x0;_0x32ebf6<_0xd96e6;_0x32ebf6++){_0x51a33b['\x72\x6f\x77\x73'][_0x5efa2f*_0xd96e6+_0x32ebf6]={'\x72\x6f\x77':_0x5efa2f,'\x63\x6f\x6c\x75\x6d\x6e':_0x32ebf6,'\x76\x61\x6c\x75\x65':_0x5a86f0[_0x32ebf6][_0x5efa2f]};}}this[_0xa1cf('0x1a')][_0xa1cf('0x8')]=_0x82f76[_0xa1cf('0x9')](_0x3757a8,_0x51a33b);}[_0xa1cf('0x14')](){this[_0xa1cf('0x4')]();this[_0xa1cf('0x16')]['\x72\x65\x6d\x6f\x76\x65\x43\x68\x69\x6c\x64'](this[_0xa1cf('0xc')]);}['\x73\x65\x74\x4c\x65\x61\x76\x65\x43\x61\x6c\x6c\x62\x61\x63\x6b'](_0x32a1da){this[_0xa1cf('0x4')]=_0x32a1da;}[_0xa1cf('0x1b')](_0x28080a,_0xe26b89,_0x194aae){var _0x4fe1d4=this;var _0x323bf1=function _0x323bf1(_0x5e89a1){var _0x4617a1=_0x4fe1d4[_0xa1cf('0x1c')](_0x5e89a1);if(_0x4617a1){_0x4fe1d4[_0xa1cf('0x1a')][_0xa1cf('0x1d')][_0xa1cf('0x1e')]('\x61\x63\x74\x69\x76\x65');_0x4fe1d4[_0xa1cf('0x1a')][_0xa1cf('0x1f')]('\x63\x6c\x69\x63\x6b',_0x323bf1);_0x194aae(_0x28080a,_0x4617a1['\x78'],_0x4617a1['\x79']);}};this[_0xa1cf('0x1a')][_0xa1cf('0x1d')][_0xa1cf('0x20')](_0xa1cf('0x21'));this[_0xa1cf('0x1a')][_0xa1cf('0x12')]('\x63\x6c\x69\x63\x6b',_0x323bf1);}[_0xa1cf('0x6')](_0x612582,_0x248f1e){if(_0x612582){var _0x12bdd0=_0x612582;if(typeof _0x612582!==_0xa1cf('0x22')){var _0x41e1a4='';var _0x44d754='';switch(_0x612582['\x73\x74\x61\x74\x65']){case _0x484e1e[_0xa1cf('0x23')]['\x57\x41\x49\x54\x49\x4e\x47']:_0x41e1a4=_0xa1cf('0x24');break;case _0x484e1e['\x53\x54\x41\x54\x45'][_0xa1cf('0x25')]:_0x41e1a4=_0xa1cf('0x26');_0x44d754=_0xa1cf('0x27')+_0x612582[_0xa1cf('0x28')];break;case _0x484e1e[_0xa1cf('0x23')][_0xa1cf('0x29')]:_0x41e1a4=_0xa1cf('0x2a');if(model[_0xa1cf('0x2b')]!==null){_0x44d754=_0xa1cf('0x2c')+_0x612582['\x63\x75\x72\x72\x65\x6e\x74\x4d\x6f\x76\x65'];}else{_0x44d754=_0xa1cf('0x2d');}break;}_0x12bdd0=_0x41e1a4+'\x20'+_0x44d754;}this[_0xa1cf('0xb')]['\x69\x6e\x6e\x65\x72\x48\x54\x4d\x4c']=_0x82f76['\x72\x65\x6e\x64\x65\x72'](_0x1d3ba6,{'\x6d\x65\x73\x73\x61\x67\x65':_0x12bdd0});}if(_0x248f1e){this[_0xa1cf('0x9')](_0x248f1e);}}}return PlayerVisual;});
+define([
+    'AbstractPlayer',
+    'AbstractGame',
+    'mustache.min'
+], function (
+    /** AbstractPlayer */ AbstractPlayer,
+    /** AbstractGame */ AbstractGame,
+    /** Mustache */Mustache
+) {
+    var rootTemplate = '<div class="board">\
+        <div class="js-board__status"></div>\
+        <div class="js-board__body"></div>\
+        <div class="board__control">\
+            <button class="js-board__leave">Выйти</button>\
+        </div>\
+    </div>';
+
+    var boardTemplate = '<div class="board__cnt"> \
+        {{#rows}} \
+            <div class="board__cell{{^column}} board__cell_first{{/column}}" \
+                data-column-index="{{column}}" \
+                data-row-index="{{row}}">{{value}} \
+            </div> \
+        {{/rows}} \
+    </div>';
+
+    var messageTemplate = '<div class="status">{{message}}</div>';
+
+    class PlayerVisual extends AbstractPlayer {
+
+        constructor(name, renderNode) {
+            super(name, renderNode);
+            this.leaveCallback = () => {};
+            this.createVisual();
+            this.notify('Ожидание игроков...');
+        }
+
+        createVisual() {
+            var tmpNode = document.createElement('div');
+            tmpNode.innerHTML = Mustache.render(rootTemplate, {});
+
+            this.rootNode = tmpNode.firstElementChild;
+            tmpNode = null;
+
+            this.statusNode = this.rootNode.querySelector('.js-board__status');
+            this.boardNode = this.rootNode.querySelector('.js-board__body');
+            this.leaveButton = this.rootNode.querySelector('.js-board__leave');
+
+            this.leaveButton.addEventListener('click', this.leave.bind(this));
+
+            this.renderNode.appendChild(this.rootNode);
+        }
+
+        validateClick(e) {
+            var x = e.target.getAttribute('data-column-index');
+            var y = e.target.getAttribute('data-row-index');
+
+            if (x === undefined || y === undefined) {
+                return false;
+            }
+
+            return {
+                x: Number(x),
+                y: Number(y)
+            }
+        }
+
+        render(board) {
+            var size = board.length;
+            var data = {
+                rows: new Array(size * size)
+            };
+
+            for (var rowIndex = 0; rowIndex < size; rowIndex++) {
+                for (var columnIndex = 0; columnIndex < size; columnIndex++) {
+                    data.rows[rowIndex * size + columnIndex] = {
+                        row: rowIndex,
+                        column: columnIndex,
+                        value: board[columnIndex][rowIndex]
+                    }
+                }
+            }
+
+            this.boardNode.innerHTML = Mustache.render(boardTemplate, data);
+        }
+
+        leave() {
+            this.leaveCallback();
+            this.renderNode.removeChild(this.rootNode);
+        }
+
+        setLeaveCallback(callback) {
+            this.leaveCallback = callback;
+        }
+
+        makeMove(token, board, callback) {
+            var that = this;
+
+            var handler = function handler(e) {
+                var click = that.validateClick(e);
+
+                if (click) {
+                    that.boardNode.classList.remove('active');
+                    that.boardNode.removeEventListener('click', handler);
+                    callback(token, click.x, click.y);
+                }
+            };
+
+            this.boardNode.classList.add('active');
+            this.boardNode.addEventListener('click', handler);
+        };
+
+        notify(message, board) {
+            if (message) {
+                var resultMessage = message;
+                if (typeof message !== 'string') {
+                    var statusString = '';
+                    var moveString = '';
+
+                    switch (message.state) {
+                        case AbstractGame.STATE.WAITING:
+                            statusString = 'Игра еще не началась.';
+                            break;
+                        case AbstractGame.STATE.PROCESS:
+                            statusString = 'Идет игра.';
+                            moveString = 'Ходит ' + message.currentMove;
+                            break;
+                        case AbstractGame.STATE.FINISH:
+                            statusString = 'Игра завершена.';
+                            if (model.move !== null) {
+                                moveString = 'Победил ' + message.currentMove;
+                            } else {
+                                moveString = 'Ничья';
+                            }
+                            break;
+                    }
+
+                    resultMessage = statusString + ' ' + moveString;
+                }
+                this.statusNode.innerHTML = Mustache.render(messageTemplate, {message: resultMessage});
+            }
+            if (board) {
+                this.render(board);
+            }
+        };
+    }
+
+    return PlayerVisual;
+});
